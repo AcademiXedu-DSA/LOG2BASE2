@@ -2,8 +2,10 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from compiler.routes.code_executor import router as code_executor_router
 import os
+
 app = FastAPI()
-print("Current working directory:", os.getcwd())
+print("Current working directory:", os.getcwd())  # This should now show the 'compiler' directory
+
 # Middleware for CORS
 app.add_middleware(
     CORSMiddleware,
@@ -19,6 +21,3 @@ app.include_router(code_executor_router)
 @app.get("/")
 async def root():
     return {"message": "Welcome to the Compiler API"}
-
-
-
