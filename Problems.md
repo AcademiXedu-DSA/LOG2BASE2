@@ -4,7 +4,33 @@ This document lists the essential concepts and problems related to Data Structur
 
 ---
 
-## **1. Arrays**
+## **1. Strings**
+
+### **Operations**
+- Access: Retrieve a character from the string.
+- Insert: Add a character at a specific position in the string.
+- Delete: Remove a character from a specific position in the string.
+- Update: Modify the value of a character at a specific index.
+
+### **Crucial Concepts**
+- Immutable Strings
+- String Matching Algorithms
+- Palindromes
+- Anagram Detection
+
+### **Problems**
+1. **Reverse a String**
+2. **Check if a String is a Palindrome**
+3. **Find the Longest Substring Without Repeating Characters**
+4. **Anagram Detection**
+5. **String Compression**
+6. **Longest Common Prefix**
+7. **Pattern Matching (Naive, KMP, Rabin-Karp)**
+8. **Implement StrStr (Substring Search)**
+
+---
+
+## **2. Arrays**
 
 ### **Operations**
 - Access: Retrieve an element from the array.
@@ -29,7 +55,7 @@ This document lists the essential concepts and problems related to Data Structur
 
 ---
 
-## **2. Linked Lists**
+## **3. Linked Lists**
 
 ### **Operations**
 - Traverse: Access each node in the linked list.
@@ -55,7 +81,7 @@ This document lists the essential concepts and problems related to Data Structur
 
 ---
 
-## **3. Stacks**
+## **4. Stacks**
 
 ### **Operations**
 - Push: Insert an element on top of the stack.
@@ -77,7 +103,7 @@ This document lists the essential concepts and problems related to Data Structur
 
 ---
 
-## **4. Queues**
+## **5. Queues**
 
 ### **Operations**
 - Enqueue: Add an element to the back of the queue.
@@ -99,7 +125,7 @@ This document lists the essential concepts and problems related to Data Structur
 
 ---
 
-## **5. Trees**
+## **6. Trees**
 
 ### **Operations**
 - Insertion: Add a node into the tree.
@@ -124,7 +150,7 @@ This document lists the essential concepts and problems related to Data Structur
 
 ---
 
-## **6. Hashing**
+## **7. Hashing**
 
 ### **Operations**
 - Insert: Add key-value pairs to the hash table.
@@ -145,7 +171,7 @@ This document lists the essential concepts and problems related to Data Structur
 
 ---
 
-## **7. Heaps**
+## **8. Heaps**
 
 ### **Operations**
 - Insert: Add an element into the heap.
@@ -167,7 +193,7 @@ This document lists the essential concepts and problems related to Data Structur
 
 ---
 
-## **8. Graphs**
+## **9. Graphs**
 
 ### **Operations**
 - Traverse: Visit nodes using DFS or BFS.
@@ -193,7 +219,7 @@ This document lists the essential concepts and problems related to Data Structur
 
 ---
 
-## **9. Dynamic Programming (DP)**
+## **10. Dynamic Programming (DP)**
 
 ### **Operations**
 - Recursion: Define the problem recursively.
@@ -217,7 +243,7 @@ This document lists the essential concepts and problems related to Data Structur
 
 ---
 
-## **10. Greedy Algorithms**
+## **11. Greedy Algorithms**
 
 ### **Operations**
 - Choose the local optimal solution at each step with the hope of finding the global optimum.
@@ -237,7 +263,7 @@ This document lists the essential concepts and problems related to Data Structur
 
 ---
 
-## **11. Backtracking**
+## **12. Backtracking**
 
 ### **Operations**
 - Build a solution incrementally and backtrack when a solution is not possible.
@@ -256,7 +282,7 @@ This document lists the essential concepts and problems related to Data Structur
 
 ---
 
-## **12. Sorting Algorithms**
+## **13. Sorting Algorithms**
 
 ### **Crucial Concepts**
 - Comparison-based Sorting
@@ -276,7 +302,7 @@ This document lists the essential concepts and problems related to Data Structur
 
 ---
 
-## **13. Searching Algorithms**
+## **14. Searching Algorithms**
 
 ### **Crucial Concepts**
 - Linear Search
@@ -300,31 +326,15 @@ This document lists the essential concepts and problems related to Data Structur
 5. **Convex Hull (Graham Scan, Jarvis March)**  
 6. **Breadth-First Search (BFS)**  
 7. **Depth-First Search (DFS)**  
-8. **Dijkstra’s Algorithm**  
-9. **Bellman-Ford Algorithm**  
-10. **Prim's Minimum Spanning Tree Algorithm**  
-11. **Kruskal’s Minimum Spanning Tree Algorithm**  
-12. **Topological Sort**  
-13. **Floyd-Warshall Algorithm (All-pairs Shortest Path)**  
-14. **Kahn's Algorithm for Topological Sort**  
-15. **Tarjan’s Algorithm for Strongly Connected Components**  
-16. **Finding Bridges in a Graph (Bridge-Finding Algorithm)**  
-17. **Articulation Points in a Graph**  
-18. **Huffman Coding**  
-19. **Job Sequencing Problem**  
-20. **Fractional Knapsack Problem**  
-21. **Activity Selection Problem**  
-22. **Greedy Coloring of Graph**  
-23. **Interval Scheduling Maximization**  
-24. **Edit Distance (Levenshtein Distance)**  
-25. **Rod Cutting Problem**  
-26. **Maximum Subarray Sum (Kadane’s Algorithm)**  
-27. **Longest Palindromic Subsequence**  
-28. **Word Break Problem**  
-29. **Subset Sum Problem**  
-30. **Bellman-Ford Algorithm**
+8. **Kruskal’s Algorithm for Minimum Spanning Tree**  
+9. **Prim’s Algorithm for Minimum Spanning Tree**
 
 ---
 
+## Conclusion
 
-Mastering these data structures and algorithms, along with solving their corresponding problems, will lay a solid foundation for tackling competitive programming challenges and technical interviews.
+Mastering these concepts will provide a solid foundation for solving complex algorithmic challenges, preparing for technical interviews, and building robust systems.
+
+---
+
+**Note**: Some problems may overlap across multiple data structure categories.
