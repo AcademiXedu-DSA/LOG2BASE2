@@ -293,41 +293,5 @@ This document lists the essential concepts and problems related to Data Structur
 
 ---
 
-## **Algorithms**
-
-### **Crucial Concepts**
-- Sorting Algorithms
-- Searching Algorithms
-- Divide and Conquer
-- Recursion
-- Backtracking
-- Dynamic Programming
-- Greedy Algorithms
-
-### **Problems**
-1. **Binary Search**
-2. **Merge Sort**
-3. **Quick Sort**
-4. **Knapsack Problem**
-5. **Longest Common Subsequence**
-6. **Fractional Knapsack**
-7. **Job Scheduling Problem**
-8. **N-Queens Problem**
-9. **Sudoku Solver**
-10. **Activity Selection Problem**
-11. **Longest Increasing Subsequence**
-12. **Fibonacci Sequence**
-13. **Find Kth Largest Element**
-14. **Matrix Chain Multiplication**
-15. **Minimum Spanning Tree (Prim’s, Kruskal’s)**
-16. **Bellman-Ford Algorithm**
-17. **Dijkstra’s Algorithm**
-18. **Graph Traversal (DFS, BFS)**
-19. **Topological Sort**
-20. **Find Strongly Connected Components (Kosaraju)**
-
----
-
-## Conclusion
 
 Mastering these data structures and algorithms, along with solving their corresponding problems, will lay a solid foundation for tackling competitive programming challenges and technical interviews.
