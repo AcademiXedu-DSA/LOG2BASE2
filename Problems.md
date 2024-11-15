@@ -291,6 +291,39 @@ This document lists the essential concepts and problems related to Data Structur
 4. **Find the Peak Element**
 5. **Search in a 2D Matrix**
 
+## **Algorithms**
+
+1. **Closest Pair of Points**  
+2. **Strassen's Matrix Multiplication**  
+3. **Find the Median of Two Sorted Arrays**  
+4. **Karatsuba Multiplication**  
+5. **Convex Hull (Graham Scan, Jarvis March)**  
+6. **Breadth-First Search (BFS)**  
+7. **Depth-First Search (DFS)**  
+8. **Dijkstra’s Algorithm**  
+9. **Bellman-Ford Algorithm**  
+10. **Prim's Minimum Spanning Tree Algorithm**  
+11. **Kruskal’s Minimum Spanning Tree Algorithm**  
+12. **Topological Sort**  
+13. **Floyd-Warshall Algorithm (All-pairs Shortest Path)**  
+14. **Kahn's Algorithm for Topological Sort**  
+15. **Tarjan’s Algorithm for Strongly Connected Components**  
+16. **Finding Bridges in a Graph (Bridge-Finding Algorithm)**  
+17. **Articulation Points in a Graph**  
+18. **Huffman Coding**  
+19. **Job Sequencing Problem**  
+20. **Fractional Knapsack Problem**  
+21. **Activity Selection Problem**  
+22. **Greedy Coloring of Graph**  
+23. **Interval Scheduling Maximization**  
+24. **Edit Distance (Levenshtein Distance)**  
+25. **Rod Cutting Problem**  
+26. **Maximum Subarray Sum (Kadane’s Algorithm)**  
+27. **Longest Palindromic Subsequence**  
+28. **Word Break Problem**  
+29. **Subset Sum Problem**  
+30. **Bellman-Ford Algorithm**
+
 ---
 
 
